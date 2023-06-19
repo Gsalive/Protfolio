@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Parking Systems",
+    "image": "./projectImages/bike.png",
+    "technologies": "Expense Traker",
+    "github": "https://github.com/Gsalive/Smart-parking-system-with-license-plate-detection-",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "Expense Traker",
+    "image": "./projectImages/weather.png",
+    "technologies": ".NET",
+    "github": "https://github.com/Gsalive/Expense-Tracker",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  },
+  {
+    "title": "Calculator",
+    "image": "./projectImages/team.png",
+    "technologies": "ReactJS | Bootstrap",
+    "github": "https://github.com/Gsalive/Calculator",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  },
+  {
+    "title": "Word Counter",
+    "image": "./projectImages/quiz.png",
+    "technologies": "ReactJS | Bootstrap",
+    "github": "https://github.com/Gsalive/WordCounter",
+    "bgcolor": "#f85781",
+    "id": "4"
+  },
+
+  {
+    "title": "Fraud Detection",
+    "image": "./projectImages/P1.png",
+    "technologies": "R",
+    "github": "https://github.com/Gsalive/Credit-Card-Fraud-Detection-Using-R",
+    "bgcolor": "#ffcc33",
+    "id": "1"
+  },
+
+  {
+    "title": "Age Calculator",
+    "image": "./projectImages/planner.png",
+    "technologies": "JS | Bootstrap | ReactJS",
+    "github": "https://github.com/Gsalive/AgeCalculator",
+    "bgcolor": "#3e67ff",
+    "id": "6"
+  }
+]
